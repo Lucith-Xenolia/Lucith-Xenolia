@@ -4,13 +4,13 @@ I go by Lucith Xenolia (Loose-ith Zee-no-lie-ah or /luːsɪθ ziːnoʊlaɪa/) bu
 I'm a student currently completing his A-Levels but I also enjoy doing computer science (and other things) on the side.
 
 ## My Hobbies
-- Coding in Rust
+- Programming in Rust
     - Embedded systems
     - Electronics
     - Graphics programming
 - Writing
-- Digital art
 
 ## My Current Projects
-- Lexus - a file manager
-- Xenolith - a sci-fi, furry, romance story dealing with many raw and dark subjects
+- Lexus - a fast and modern file manager for Windows.
+- Vxien Pet - an interactive desktop pet that I plan to turn into a library.
+- Xenolith - a sci-fi, furry, romance story dealing with many raw and dark subjects.
